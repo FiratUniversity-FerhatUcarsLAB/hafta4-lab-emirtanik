@@ -10,7 +10,7 @@
  */
 import java.util.Scanner;
 
-public class maas_hesabi {
+public class MaasHesap {
 	
 	public static double SGK_KESİNTİSİ=0.14;
 	public static double GELİR_VERGİSİ=0.15;
