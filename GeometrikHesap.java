@@ -8,11 +8,9 @@
  * Bunu bir dairenin alan,cevre,kürenin alanı,cevresi,ve çap hesaplamasını sağlar
 */
 
-package algoLab;
-
 import java.util.Scanner;
 
-public class alan_hesaplayıcı {
+public class GeometrikHesap {
 	public static final double PI = 3.14159;
 	public static void main(String[] args) {
 		Scanner scanner=new Scanner(System.in);
