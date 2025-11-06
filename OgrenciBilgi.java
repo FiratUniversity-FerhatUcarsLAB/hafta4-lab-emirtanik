@@ -40,8 +40,7 @@ public class OgrenciBilgi {
 		
 		//aldığım girdileri çıktı olarak çıkarttım.
 		System.out.println("\n=== OGRENCI BILGI SISTEMI ===");
-		System.out.println("İsminiz: "+ isim );
-		System.out.println("Soyisminiz: "+ soyad);
+		System.out.println("İsminiz Soyisminiz: "+ isim + " " +soyad );
 		System.out.println("Okul Numaranız: "+ okulno);
 		System.out.println("Yaşınız: "+yasınız);
 		System.out.println("Gpanız: "+ gpa  );
